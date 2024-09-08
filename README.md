@@ -1,4 +1,4 @@
-# MultiEMO: An Attention-Based Correlation-Aware Multimodal Fusion Framework for Emotion Recognition in Conversations (ACL 2023)
+# Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations
 
 ## Overview
 This repository is the Pytorch implementation of ACL 2023 paper ["MultiEMO: An Attention-Based Correlation-Aware Multimodal Fusion Framework for Emotion Recognition in Conversations"](https://aclanthology.org/2023.acl-long.824.pdf). In this work, we propose a novel attention-based correlation-aware multimodal fusion framework named MultiEMO,
